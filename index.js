@@ -1,4 +1,4 @@
 //Your code here
-justInvoke(fn){
+const justInvoke= functon(fn){
 
 }
