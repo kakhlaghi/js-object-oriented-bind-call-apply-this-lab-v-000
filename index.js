@@ -1,2 +1,4 @@
 //Your code here
-justInvoke.call(fun)
+function justInvoke(){
+
+}
