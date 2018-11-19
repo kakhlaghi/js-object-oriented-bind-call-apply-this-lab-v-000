@@ -1,2 +1,2 @@
 //Your code here
-justInvoke.class()
+justInvoke.call(fun)
